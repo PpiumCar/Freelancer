@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://kcw0813.netlify.app/sitemap.xml
